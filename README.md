@@ -28,6 +28,3 @@ I am most familiar with programming in Java, but am looking forward to also stud
 I am ineterested in video streaming technologies, as well as codecs and transport protocols  -  this relates to my work.
 
 I am also just generally interested in technology and how systems can be improved and made more efficient.
-
-
-Contact me via email if you like:  emc2983@gmail.com
