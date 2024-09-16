@@ -28,4 +28,5 @@ I am ineterested in video streaming technologies, as well as codecs and transpor
 
 I am also just generally interested in technology and how systems can be improved and made more efficient.
 
+
 Contact me via email if you like:  emc2983@gmail.com
