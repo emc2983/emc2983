@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **emc2983/emc2983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
