@@ -25,6 +25,6 @@ I also hold 2 x Associates degrees from Northern Virginia Community College:
 
 I am most familiar with programming in Java, but am looking forward to also studying C++ and Python here at ODU.
 
-I am interested in understanding more about video compression and transport (streaming) methods and protocols, as this related to my current work.
+I am interested in understanding more about video compression and transport (streaming) methods and protocols, as this relates to my current work.
 
 I am also just generally interested in technology and how computing systems can be improved and made more efficient.
