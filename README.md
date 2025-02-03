@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a transfer student at Old Dominion University (ODU) and am now working towards a B.S. in Computer Science. I have several years of experience working with software and technology and am looking forward to deepening my understanding of software development and engineering.
+I am currently working towards a B.S. in Computer Science at Old Dominion University (ODU).
 
 I also hold 2 x Associates degrees from Northern Virginia Community College:
 
-A.A. in Liberal Arts
+* A.A. in Liberal Arts
+* A.A.S. in Information Systems Technology
 
-A.A.S in Information Systems Technology
 
 I am most familiar with programming in Java, but am looking forward to also studying C++ and Python here at ODU.
 
-I am ineterested in video streaming technologies, as well as codecs and transport protocols  -  this relates to my work.
+I am interested in understanding more about video compression and streaming and transport methods and protocols, as this related to my current work.
 
-I am also just generally interested in technology and how systems can be improved and made more efficient.
+I am also just generally interested in technology and how computing systems can be improved and made more efficient.
